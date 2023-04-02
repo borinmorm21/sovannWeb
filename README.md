@@ -2,7 +2,7 @@
 
 Welcome to Sovann Website! This is a personal project that I have created to showcase my skills in web development. The website is built using HTML, CSS, and JavaScript, and it is fully responsive, which means that it works well on all devices, including desktops, laptops, tablets, and smartphones.
 
-![Sovann Website Screenshot](https://i.postimg.cc/R08x4wM5/Screenshot-2023-04-02-153054.png)
+[Sovann Website Screenshot](https://i.postimg.cc/R08x4wM5/Screenshot-2023-04-02-153054.png)
 
 ## Features
 
