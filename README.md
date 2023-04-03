@@ -20,7 +20,7 @@ Sovann's Portfolio includes the following features:
 
 ## Demo
 
-To see Sovann's Portfolio in action, please visit the following link: [https://sovannsportfolio.netlify.app/](https://sovannsportfolio.netlify.app/)
+To see Sovann's Portfolio in action, please visit the following link: [Click Here](https://sovann.netlify.app/)
 
 ## Credits
 
